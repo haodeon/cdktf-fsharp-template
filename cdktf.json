@@ -1,0 +1,11 @@
+{
+  "language": "fsharp",
+  "app": "dotnet run -p MyTerraformStack.fsproj",
+  "projectId": "ddc5f194-f8b3-48d5-a326-efadee89ddf5",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "context": {
+
+  }
+}
